@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RealOnes/static/css/main.7fec0350.css",
+    "main.js": "/RealOnes/static/js/main.9210aae8.js",
+    "static/js/787.90615203.chunk.js": "/RealOnes/static/js/787.90615203.chunk.js",
+    "static/media/Hyper heliX.woff": "/RealOnes/static/media/Hyper heliX.523ac31a62f9e9743322.woff",
+    "index.html": "/RealOnes/index.html",
+    "main.7fec0350.css.map": "/RealOnes/static/css/main.7fec0350.css.map",
+    "main.9210aae8.js.map": "/RealOnes/static/js/main.9210aae8.js.map",
+    "787.90615203.chunk.js.map": "/RealOnes/static/js/787.90615203.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fec0350.css",
+    "static/js/main.9210aae8.js"
+  ]
+}
